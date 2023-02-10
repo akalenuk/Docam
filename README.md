@@ -9,3 +9,5 @@ Schedules, announcements, notes, book covers etc. Just use menu button to take a
 
 ![Before](/google_play_assets/docam_scr1.jpg "Before")
 ![After](/google_play_assets/docam_scr2.jpg "After")
+
+Also, there is a more advanced desktop app that can even unbend book pages: https://github.com/akalenuk/unpager
