@@ -9,5 +9,3 @@ Schedules, announcements, notes, book covers etc. Just use menu button to take a
 
 ![Before](/google_play_assets/docam_scr1.jpg "Before")
 ![After](/google_play_assets/docam_scr2.jpg "After")
-
-The app itself is available on Google Play: https://play.google.com/store/apps/details?id=p.namespace
